@@ -1,0 +1,65 @@
+.portfolio-component-3 {
+    position: absolute;
+    left: 40rem;
+    width: 72rem;
+    height: 104rem;
+    background: #F1EFDC;
+}
+
+#content {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+}
+
+#side-1 {
+    position: absolute;
+    top: 12rem;
+    right: 44rem;
+    width: 24rem;
+}
+
+#side-2 {
+    position: absolute;
+    top: 12rem;
+    right: 20rem;
+    width: 20rem;
+}
+
+h2 {
+    color: #000;
+    font-size: 1.5rem;
+    font-family: Manrope;
+    font-style: normal;
+    font-weight: 500;
+    line-height: normal;
+    letter-spacing: 0.075rem;
+}
+
+h1 {
+    color: #000;
+    font-size: 1.75rem;
+    font-family: Manrope;
+    font-style: normal;
+    font-weight: 500;
+    line-height: normal;
+    letter-spacing: 0.0875rem;
+}
+
+#adarsh,#optimus-primary,#optimus-secondary,#optimus-grad,#vit {
+    max-width: 16rem;
+}
+
+li {
+    list-style: none;
+    margin-left: -2.4rem;
+}
+
+#primary,#secondary,#grad-high,#ug {
+    padding-bottom: 8px;
+}
+
+#educational-qualifications,#softskills,#digital-skills,#computer-languages,#interests {
+    padding-bottom: 3rem;
+}

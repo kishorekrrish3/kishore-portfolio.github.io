@@ -1,0 +1,112 @@
+.portfolio-page-1 {
+  margin: 0;
+  display: flex;
+  width: 108rem;
+  flex-direction: column;
+  justify-content: center;
+  align-items: flex-start;
+}
+
+.mac-1 {
+  margin-top: 0rem;
+  margin-bottom: 1813rem;
+  width: 108rem;
+  height: auto;
+}
+
+#name {
+  position: absolute;
+  top:64rem;
+  right: 45.19rem;
+  bottom: 1.25rem;
+  left: 65.31rem;
+  width: 7.5rem;
+  height: 3.375rem;
+  color: #000;
+  font-size: 1.20rem;
+  font-family: Manrope;
+  font-style: normal;
+  font-weight: 400;
+  line-height: normal;
+  letter-spacing: 0.0625rem;
+}
+
+#strips-div {
+  width: 54rem;
+  height: 69.8125rem;
+  flex-shrink: 0;
+  margin: 0 54rem 0 0;
+}
+
+#port {
+  position: absolute;
+  top: 16rem;
+  right: 23.56rem;
+  bottom: 29.44rem;
+  left: 18rem;
+  color: #000;
+  font-size: 8rem;
+  font-family: Manrope;
+  font-style: normal;
+  font-weight: 400;
+  line-height: normal;
+  letter-spacing: 0.4rem;
+}
+
+#folio {
+  position: absolute;
+  top: 16rem;
+  right: 0.25rem;
+  bottom: 29.44rem;
+  left: 40rem;
+  color: #FCF9E2;
+  font-size: 8rem;
+  font-family: Manrope;
+  font-style: normal;
+  font-weight: 400;
+  line-height: normal;
+  letter-spacing: 0.4rem;
+}
+
+#strips {
+  position: absolute;
+  left: 40rem ;
+  top: 0;
+  width: 375px;
+  height: 1117px;
+  display: inline-flex;
+  height: 69.8125rem;
+  justify-content: center;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+#green {
+  width: 4.4375rem;
+  height: 69.8125rem;
+  background-color: #BFC3A1;
+}
+#red {
+  width: 5.8125rem;
+  height: 69.8125rem;
+  background-color: #DF9093;
+}
+#yellow {
+  width: 4.875rem;
+  height: 69.8125rem;
+  background-color: #F8E6A0;
+}
+#blue {
+  width: 2rem;
+  height: 69.8125rem;
+  background-color: #85BDD4;
+}
+#pink {
+  width: 6.3125rem;
+  height: 69.8125rem;
+  background-color: #F8BBB5;
+}
+
+
+.portfolio-page-1 {
+  height: 200rem;
+}

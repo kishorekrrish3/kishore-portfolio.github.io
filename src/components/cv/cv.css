@@ -1,0 +1,91 @@
+.portfolio-component-1 {
+    position: absolute;
+    right: 75rem;
+    bottom: 33.44rem;
+    left: 0rem;
+    top: 0rem;
+    display: flex;
+    width: 33rem;
+    height: 58.9375rem;
+    padding: 4.375rem 2.4375rem 4.3125rem 2.5rem;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    flex-shrink: 0;
+    background: #F1EFDC;
+}
+
+
+#about-div {
+    display: flex;
+    width: 26.0625rem;
+    flex-direction: column;
+    justify-content: center;
+    align-items: flex-start;
+}
+
+#profile-img {
+    position: absolute;
+    top: 14rem;
+    right: 7.75rem;
+    bottom: 23.56rem;
+    left: 7.75rem;
+
+    width: 17.5rem;
+    height: 23.375rem;
+    flex-shrink: 0;
+    background: url(../../assets/frame-4.png), lightgray -108.789px -147.872px / 177.184% 177.292% no-repeat;
+    box-shadow: -8px 8px 8px 0px rgba(0, 0, 0, 0.50);
+}
+
+#curriculum-vitae {
+    position: absolute;
+    top:5.38rem;
+    right:3.88rem;
+    bottom:49.44rem;
+    left:3.94rem;
+
+    color: #585959;
+    font-size: 3rem;
+    font-family: Manrope;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    letter-spacing: 0.15rem;
+}
+
+#about {
+    position: absolute;
+    top:40rem;
+    right:24.88rem;
+    bottom:17.81rem;
+    left:3.56rem;
+
+    color: #616161;
+    font-size: 1.5rem;
+    font-family: Manrope;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    letter-spacing: 0.075rem;
+}
+
+#about-content {
+    position: absolute;
+    top:44rem;
+    right:3.44rem;
+    bottom:5.31rem;
+    left:3.5rem;
+
+    display: flex;
+    width: 26.0625rem;
+    flex-direction: column;
+    color: #7F7F7F;
+    text-align: justify;
+    font-size: 0.9375rem;
+    font-family: Manrope;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    letter-spacing: 0.04688rem;
+}

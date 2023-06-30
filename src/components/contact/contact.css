@@ -1,0 +1,82 @@
+.portfolio-component-2 {
+    position: absolute;
+    top: 70rem;
+    right: 70rem;
+    bottom: 0;
+    left: 0;
+    height: 26rem;
+    padding: 4rem 3rem;
+    background: #F1EFDC;
+}
+
+#content {
+    align-items: center;
+    justify-content: center;
+    width: 20rem;
+}
+
+#languages {
+    position: absolute;
+    left: 8rem;
+    height: auto;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    top: 4rem;
+}
+
+#languages-heading,#contact-heading {
+    color: #000;
+    font-size: 1.75rem;
+    font-family: Manrope;
+    font-style: normal;
+    font-weight: 500;
+    line-height: normal;
+    letter-spacing: 0.0875rem;
+}
+
+#languages-list {
+    width: 3rem;
+}
+
+#eng,#tam,#hin {
+    height: 12px;
+}
+
+#contact {
+    position: absolute;
+    top: 18rem;
+    left: 8rem;
+    height: auto;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+}
+
+
+#contact-content {
+    display: flex;
+    flex-direction: column;
+}
+
+#phone,#email,#location {
+    display: flex;
+    height: 32px;
+    flex-direction: row;
+    align-items: center;
+    justify-content: flex-start;
+}
+
+#phone-icon,#email-icon,#location-icon {
+    padding-right: 12px;
+}
+
+#phone-text,#email-text,#location-text,#eng,#tam,#hin {
+    color: #000;
+    font-size: 1.375rem;
+    font-family: Manrope;
+    font-style: normal;
+    font-weight: 300;
+    line-height: normal;
+    letter-spacing: 0.06875rem;
+}
