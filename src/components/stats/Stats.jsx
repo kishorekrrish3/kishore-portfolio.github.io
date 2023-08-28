@@ -69,15 +69,14 @@ export const Stats = () => {
             <div id="digital-skills">
             <h1 id="digital-title">Digital Skills</h1>
             <ul id="digital-content">
+              <li>Machine Learning</li>
+              <li>Deep Learning</li>
+              <li>UI UX Designing</li>
               <li>Figma</li>
               <li>Solidworks</li>
-              <li>MS Office</li>
+              <li>MS Office Suite</li>
               <li>Canvas</li>
-              <li>Blender</li>
-              <li>Adobe Illustrator</li>
               <li>Adobe Express</li>
-              <li>Adobe Photoshop</li>
-              <li>Arduino</li>
               <li>Git and Github</li>
             </ul>
           </div>
@@ -87,16 +86,15 @@ export const Stats = () => {
             <h1 id="comp-title">Computer Languages and Frameworks</h1>
             <ul id="comp-content">
               <li>Python</li>
+              <li>Tensorflow</li>
               <li>C and C++</li>
               <li>Java</li>
               <li>Javascript</li>
               <li>HTML5 and CSS3</li>
               <li>Bootstrap</li>
               <li>React</li>
-              <li>Next.js</li>
               <li>Node.js</li>
               <li>Express.js</li>
-              <li>MongoDB</li>
               <li>MySQL</li>
             </ul>
           </div>
